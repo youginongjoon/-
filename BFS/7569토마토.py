@@ -49,11 +49,6 @@ def bfs() :
     return -1
   
 
-  # ㅇㅇ
-
-
-
-
 
 M, N, H = map(int, input().split())
 
